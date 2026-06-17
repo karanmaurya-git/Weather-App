@@ -38,4 +38,5 @@ Weather-App/
 ---
 
 👨‍💻 Author
+
 Karan Maurya
