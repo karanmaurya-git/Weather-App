@@ -34,3 +34,8 @@ Weather-App/
 │        ├── sun.png  
 │        ├── rain.png  
 │        ├── clouds.png  
+
+---
+
+👨‍💻 Author
+Karan Maurya
